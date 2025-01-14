@@ -23,7 +23,7 @@
               },
               "color": "rgba(75, 0, 130, 0.4)",
               "mapping": "header",
-              "customBlockName": "header"
+              "customBlockName": "ai-header"
             }
           ],
           "settings": {}
@@ -59,98 +59,8 @@
                 }
               ],
               "color": "rgb(0, 0, 255)",
-              "mapping": "columns",
-              "customBlockName": "ai-column"
-            },
-            {
-              "id": "box-id--1102402178",
-              "x": 159,
-              "y": 1657,
-              "width": 1329,
-              "height": 478,
-              "xpath": "/html[1]/body[1]/div[5]",
-              "layout": {
-                "numCols": 1,
-                "numRows": 2
-              },
-              "childrenXpaths": [
-                {
-                  "xpath": "/html[1]/body[1]/div[5]/div[1]",
-                  "xpathWithDetails": "/html[@class=\"js\"]/body[@class=\"home page-template-default page page-id-13 wp-custom-logo wp-embed-responsive fl-builder-2-8-5-1 singular enable-search-modal missing-post-thumbnail has-no-pagination not-showing-comments hide-avatars footer-top-visible\"]/div[@class=\"container Ourstories\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[5]/div[2]",
-                  "xpathWithDetails": "/html[@class=\"js\"]/body[@class=\"home page-template-default page page-id-13 wp-custom-logo wp-embed-responsive fl-builder-2-8-5-1 singular enable-search-modal missing-post-thumbnail has-no-pagination not-showing-comments hide-avatars footer-top-visible\"]/div[@class=\"container Ourstories\"]/div[@class=\"row text-center\"]"
-                }
-              ],
-              "color": "rgb(0, 255, 0)",
-              "mapping": "cards",
-              "customBlockName": "ai-content"
-            },
-            {
-              "id": "box-id--1102402147",
-              "x": 159,
-              "y": 2183,
-              "width": 1329,
-              "height": 1366,
-              "xpath": "/html[1]/body[1]/div[6]",
-              "layout": {
-                "numCols": 2,
-                "numRows": 6
-              },
-              "childrenXpaths": [
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[1]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[2]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[3]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[4]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[5]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[6]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[7]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[8]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[9]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[10]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[11]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                },
-                {
-                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[12]",
-                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
-                }
-              ],
-              "color": "rgb(255, 255, 0)",
               "mapping": "defaultContent",
-              "customBlockName": "ai-news"
+              "customBlockName": "ai-columns"
             }
           ],
           "settings": {}
@@ -186,7 +96,7 @@
                 }
               ],
               "color": "rgb(255, 127, 0)",
-              "mapping": "columns",
+              "mapping": "defaultContent",
               "customBlockName": "footer"
             }
           ],
