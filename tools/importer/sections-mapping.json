@@ -11,21 +11,6 @@
           "id": "1-1",
           "blocks": [
             {
-              "id": "box-id-2039097791",
-              "x": 0,
-              "y": 0,
-              "width": 1329,
-              "height": 901,
-              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]",
-              "layout": {
-                "numCols": 0,
-                "numRows": 0
-              },
-              "color": "rgba(75, 0, 130, 0.4)",
-              "mapping": "header",
-              "customBlockName": "header"
-            },
-            {
               "id": "box-id--1102402240",
               "x": 0,
               "y": 0,
